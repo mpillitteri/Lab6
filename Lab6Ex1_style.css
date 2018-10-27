@@ -1,0 +1,48 @@
+body{
+	background-color:black;
+}
+
+#body {
+	background-color:black;
+}
+
+#wrapper{
+	width:960px;
+	height: 600px;
+	margin-top: 20px;
+	margin: auto;
+	margin-bottom: 50px;
+	background-color:white;
+}
+
+#header{
+	width:960px;
+	height:50px;
+	margin-top: 40px;
+	background-color:red;
+	text-align: center;
+	color: white;
+
+}
+
+#leftbody{
+	float: left;
+	width:950px;
+	height: 400px;
+	background-color:green;
+	text-align: left;
+	color: white;
+	font-size: 12px;
+	padding:5px;
+}
+
+#bottom{
+	float: left;
+	width:950px;
+	height:50px;
+	background-color:blue;
+	text-align:left;
+	color: white;
+	font-size: 12px;
+	padding:5px;
+}
